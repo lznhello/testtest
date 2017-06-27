@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 $$
 M = \left( \begin{array}{ccc}
 x_{11} & x_{12} & \ldots \\
