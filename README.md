@@ -1,3 +1,11 @@
+$$
+\bm{a} = \left[ {{\bm{e}_1},{\bm{e}_2},{\bm{e}_3}} \right]\left[ \begin{array}{l}
+{a_1}\\
+{a_2}\\
+{a_3}
+\end{array} \right] = {a_1}{\bm{e}_1} + {a_2}{\bm{e}_2} + {a_3}{\bm{e}_3}
+$$
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lznhello/testtest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
